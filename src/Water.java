@@ -1,7 +1,7 @@
 public class Water {
 
     public static void main(String[] args) {
-        
+
     }
 
     //Water makes up a majority of your body weight and is involved in many important functions.
